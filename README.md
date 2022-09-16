@@ -1,5 +1,6 @@
 ## Olá, Dai Russi aqui! 🚀 Iniciando minha jornada tech.
 
+
 <div align="center">
   <a href="https://github.com/dairussi">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=dairussi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
